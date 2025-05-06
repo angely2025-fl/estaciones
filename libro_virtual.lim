@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>80FFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Las estaciones del año</titulo>
+        <autor>Angely Foronda</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >¡Muy bien, lo lograste!</correcto>
+        <incorrecto son="" modo="1" >Ohhh es incorrecto, !sigue intentando¡</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="55" posy="118" ancho="502" largo="197"><![CDATA[
+<p align="center">
+<font color="#000000" face="Bodoni" size="60"><b></b><br>
+<b>¿Qué son las estaciones?</b><br>
+</font><font color="#000000" face="Calibri" size="22">Las estaciones del año son los cuatro periodos del año en los que el clima cambia. ¡Es como si la Tierra tuviera ropa diferente según la época!<br>
+Ahora, imagina que el año es una fiesta gigante y los invitados son las estaciones ¡Vamos a conocerlos!<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>¡Arma el rompecabezas para descubrir la estacion!</cabeceira>
+              <imaxe>Imagen3.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>¡Arma el rompecabezas para descubrir la estacion!</cabeceira>
+              <imaxe>Imagen5.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>¡Arma el rompecabezas para descubrir la estacion!</cabeceira>
+              <imaxe>Imagen6.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <cabeceira>¡Arma el rompecabezas para descubrir la estacion!</cabeceira>
+              <imaxe>Imagen7.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>Identifica la estación de verano.</cabeceira>
+              <etiqueta imaxe="Imagen4.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen9.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen12.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen10.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen8.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Imagen3.png" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Identifica la estacion de primavera.</cabeceira>
+              <etiqueta imaxe="Imagen14.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen15.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen13.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Imagen16.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen18.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen17.png" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>Identifica la estación de otoño.</cabeceira>
+              <etiqueta imaxe="Imagen3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen6.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Imagen16.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen9.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen8.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen7.png" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>Identifica la estación de invierno.</cabeceira>
+              <etiqueta imaxe="Imagen7.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Imagen18.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen6.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen4.png" texto="">0</etiqueta>
+              <etiqueta imaxe="Imagen16.png" texto="">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Ayuda a cada estació a encontrar su pareja.</cabeceira>
+              <parellas>Imagen15.png</parellas>
+              <parellas>Imagen9.png</parellas>
+              <parellas>Imagen16.png</parellas>
+              <parellas>Imagen4.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena las estaciones: 1 Primavera, 2 Verano, 3 Otoño, 4 Invierno, 5 lEstaciones en conjunto.</cabeceira>
+              <forma>0</forma>
+              <completa>Imagen21.png</completa>
+              <completa>Imagen22.png</completa>
+              <completa>Imagen23.png</completa>
+              <completa>Imagen24.png</completa>
+              <completa>Imagen25.png</completa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>43</tipo>
+              <cabeceira>Ordena las letras y nombra la estación.</cabeceira>
+              <imaxe>Imagen24.png</imaxe>
+              <completa post="">Invierno</completa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>43</tipo>
+              <cabeceira>Ordena las letras y nombra la estación.</cabeceira>
+              <imaxe>Imagen26.png</imaxe>
+              <completa post="">Primavera</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>43</tipo>
+              <cabeceira>Ordena las letras y nombra la estación.</cabeceira>
+              <imaxe>Imagen27.png</imaxe>
+              <completa post="">Otoño</completa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>43</tipo>
+              <cabeceira>Ordena las letras y nombra la estación.</cabeceira>
+              <imaxe>Imagen28.png</imaxe>
+              <completa post="">Verano</completa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Invierno">Imagen24.png</cousa>
+              <cousa nome="Otoño">Imagen27.png</cousa>
+              <cousa nome="Primavera">Imagen13.png</cousa>
+              <cousa nome="Verano">Imagen17.png</cousa>
+        </paxina>
+    </libro>
+</lim>
